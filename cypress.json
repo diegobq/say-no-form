@@ -1,0 +1,7 @@
+{
+  "env": {
+    "prenota_url": "https://prenotami.esteri.it",
+    "servicio": 552,
+    "servicio_jueves": 1021
+  }
+}

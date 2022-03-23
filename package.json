@@ -1,0 +1,27 @@
+{
+  "name": "say-no-form",
+  "version": "0.0.1",
+  "description": "You'll never populate a form more than one time. Freedom",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "cypress:open": "cypress open",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegobq/say-no-form.git"
+  },
+  "author": "diegobq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegobq/say-no-form/issues"
+  },
+  "homepage": "https://github.com/diegobq/say-no-form#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2",
+    "cypress-file-upload": "^5.0.8",
+    "prettier": "^2.6.0"
+  }
+}
